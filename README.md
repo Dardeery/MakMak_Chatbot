@@ -95,4 +95,7 @@ Total : 50 EGP
     ```
     
     ## next sprint
-    
+   * make an extranl connection to the store list of items. 
+   * provide historical overview (not only covers the last day).
+   * introduce NLP to understand the requests better.
+   * provide options in the begaining 
