@@ -45,6 +45,7 @@ We only have 3 Juice Units available.
 ### Part2: Placing an Order?
 
 MakMak receives orders from customers, he needs to check stock availability of each item. and calculate the total and display it 
+
 ```bash
 How can I help you? 
 > order Sugar 2
