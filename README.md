@@ -1,4 +1,4 @@
-# MakMak_Chatbot
+# MakMak Chatbot
 MakMak is a basic mini supermarket chatbot simulation, it can check the availability of the requested items, placing an order, and calculate daily revenues. 
 
 
